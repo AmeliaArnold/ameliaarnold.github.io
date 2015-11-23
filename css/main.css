@@ -302,7 +302,7 @@ pre {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 42px;
+  font-size: 20px;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 800px) {
@@ -339,7 +339,7 @@ ul.polaroids a {
   width: auto;
   padding: 10px 10px 15px;
   text-align: center;
-  font-family: "Marker Felt",sans-serif;
+  font-family: 'Indie Flower', cursive;
   text-decoration: none;
   color: #333;
   font-size: 18px;
