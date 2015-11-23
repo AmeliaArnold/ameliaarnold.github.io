@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="drawings.svg">
+  <defs
+     id="defs4">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3583"
+       width="1.21"
+       height="1.4000000000000001"
+       x="-0.10000000000000001"
+       y="-0.080000000000000029">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3585" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3587" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur3589" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset3591" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3593" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.7254647"
+     inkscape:cx="104.63046"
+     inkscape:cy="106.94455"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffaaaa;fill-rule:evenodd;stroke:#000000;stroke-width:0.36372223px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3336"
+       width="535.45477"
+       height="105.53544"
+       x="-147.31979"
+       y="1070.6702" />
+    <g
+       id="g3347"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(219,-8.9999774)"
+       inkscape:export-filename="s">
+      <rect
+         ry="3"
+         rx="3"
+         y="795.36218"
+         x="-219"
+         height="16"
+         width="16"
+         id="rect3341"
+         style="fill:#ffffff" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3343"
+         y="809.53369"
+         x="-218.95554"
+         style="font-style:normal;font-weight:normal;font-size:23.80267525px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffaaaa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#ffaaaa"
+           y="809.53369"
+           x="-218.95554"
+           id="tspan3345"
+           sodipodi:role="line">a</tspan></text>
+    </g>
+    <g
+       id="g3362-0"
+       transform="matrix(0.99415202,0,0,1,6.6043784,-39.482234)"
+       inkscape:export-filename="C:\Users\peter\My Programs\Websites\AmeliaArnold\images\header\ameliaarnold.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="filter:url(#filter3583)">
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\peter\My Programs\Websites\AmeliaArnold\images\header\ameliaarnold.png"
+         transform="scale(0.99106768,1.0090128)"
+         sodipodi:linespacing="125%"
+         id="text3338-3"
+         y="1026.4988"
+         x="-2.2185794e-016"
+         style="font-style:normal;font-weight:normal;font-size:69.019104px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.764328px;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:-3.45095515px;fill:#ffffff"
+           y="1026.4988"
+           x="-2.2185794e-016"
+           id="tspan3340-5"
+           sodipodi:role="line">Amelia Arnold</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\peter\My Programs\Websites\AmeliaArnold\images\header\littleacorns.png"
+         transform="scale(0.98098846,1.01938)"
+         sodipodi:linespacing="125%"
+         id="text3365-7"
+         y="1032.0941"
+         x="75.750732"
+         style="font-style:normal;font-weight:normal;font-size:57.03807449px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.82439804px;font-family:Georgia;-inkscape-font-specification:'Georgia Italic';fill:#ffffff"
+           y="1032.0941"
+           x="75.750732"
+           id="tspan3367-1"
+           sodipodi:role="line">From little acorns..</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.82439804px;font-family:Georgia;-inkscape-font-specification:'Georgia Italic';fill:#ffffff"
+           y="1054.3746"
+           x="75.750732"
+           sodipodi:role="line"
+           id="tspan3595">.</tspan></text>
+    </g>
+  </g>
+</svg>

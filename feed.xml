@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amelia Arnold</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://ameliaarnold.co.uk/</link>
+    <atom:link href="http://ameliaarnold.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 23 Nov 2015 13:39:07 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2015 13:39:07 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Amelia’s Christening</title>
+        <description>&lt;p&gt;Today Amelia was Christened in &lt;a href=&quot;http://www.crowlandabbey.org.uk/&quot;&gt;Crowland Abby&lt;/a&gt; in Lincolnshire.  This is where we got married just over 5 years ago. It was so nice to have the Christening service in the same place, with the same vicar and many of the same friends and relations in attendance.&lt;/p&gt;
+
+&lt;p&gt;Amelia was very well behaved throughout the service; indeed, she slept through most of it. When it came to the actual Christening part we were concerned that the vicar’s lapel microphone would pick up her snoring!&lt;/p&gt;
+
+&lt;p&gt;After the service we had a lunch at &lt;a href=&quot;http://www.stnicholashouse.co.uk/&quot;&gt;St Nicholas House&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Many thanks to everyone who attended, especially Amelia’s Godparents; Jason, Dom, Shelly and Michaela.&lt;/p&gt;
+
+&lt;p&gt;Here are some photos from the day:&lt;/p&gt;
+
+&lt;ul class=&quot;polaroids&quot;&gt;
+&lt;li&gt;
+&lt;a href=&quot;https://picasaweb.google.com/lh/photo/d-aUSgz2KxjmbezSI0ej1NMTjNZETYmyPJy0liipFm0?feat=directlink&quot; title=&quot;Parents and Godparents&quot;&gt;
+&lt;img alt=&quot;Parents and Godparents&quot; src=&quot;https://lh3.googleusercontent.com/-IVS7epTaXNQ/VlI149oYi0I/AAAAAAAAAA8/JtfH3F5Ju2A/s400-Ic42/ParentsAndGodParents.JPG&quot; /&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&quot;https://picasaweb.google.com/lh/photo/mpLATTrVeSe_76cFx3pez9MTjNZETYmyPJy0liipFm0?feat=directlink&quot; title=&quot;Rev. Charles Brown, Rachel and Amelia&quot;&gt;
+&lt;img alt=&quot;Rev. Charles Brown, Rachel and Amelia&quot; src=&quot;https://lh3.googleusercontent.com/-Q9I2U1TRNR8/VlI7VDDO2YI/AAAAAAAAABo/z1qD6oV72oM/s400-Ic42/CharlesBrownRachelAmelia.JPG&quot; /&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 21 Nov 2015 12:00:00 +0000</pubDate>
+        <link>http://ameliaarnold.co.uk/2015/11/21/christening.html</link>
+        <guid isPermaLink="true">http://ameliaarnold.co.uk/2015/11/21/christening.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 15 Nov 2015 13:38:14 +0000</pubDate>
+        <link>http://ameliaarnold.co.uk/jekyll/update/2015/11/15/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://ameliaarnold.co.uk/jekyll/update/2015/11/15/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to the World!</title>
+        <description>&lt;p&gt;Amelia Grace Arnold was born at 4 minutes past 3 in the afternoon of Monday the 2&lt;super&gt;nd&lt;/super&gt; November 2015 in the Luton &amp;amp; Dunstable Hospital. She weighed 3.4kg (that’s 7 pounds 8 ounces in old money). She was going to arrive by planned Caesarean section the next day but decided to put in an early appearance.&lt;/p&gt;
+
+&lt;p&gt;Born on a Monday - so she is bound to be &lt;a href=&quot;https://en.wikipedia.org/wiki/Monday&#39;s_Child&quot;&gt;&lt;em&gt;fair of face&lt;/em&gt;&lt;/a&gt;. She’s a Scorpio and her birth stone is Topaz.&lt;/p&gt;
+
+&lt;p&gt;Because Amelia was born by Caesarean section she and Mum will stay in hospital for a few days to recover.&lt;/p&gt;
+
+&lt;p&gt;Here’s a selection of photos from the day.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 02 Nov 2015 15:04:00 +0000</pubDate>
+        <link>http://ameliaarnold.co.uk/2015/11/02/welcome-to-the-world.html</link>
+        <guid isPermaLink="true">http://ameliaarnold.co.uk/2015/11/02/welcome-to-the-world.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
